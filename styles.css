@@ -1,0 +1,131 @@
+body {
+  margin-top:50px;
+  margin-left: 50px;
+}
+
+h1{
+  margin:0;
+}
+
+h2{
+  margin-bottom: 0;
+}
+
+h3{
+  margin:0;
+  padding-top: 10px;
+
+}
+
+hr{
+  margin:0;
+  width:38%;
+}
+
+p{
+  margin:0;
+}
+
+div{
+  display:inline-block;
+}
+
+.title-head{
+  color:#1eae98;
+}
+
+.prim-info{
+  position:absolute;
+  right:200px;
+  color:#1eae98;
+}
+
+.Brief{
+  margin-top:20px;
+  margin-right: 200px;
+  background-color: #dfeeea;
+  border: 1px solid;
+  border-radius: 20px;
+  border-color: white;
+  padding-left: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.Brief-company{
+  margin-left: 0;
+  margin-right: 30;
+  padding:20px;
+  height:250px;
+  width:440px;
+  background-color: #dfeeea;
+  border: 1px solid;
+  border-radius: 20px;
+}
+
+
+.Education{
+  height:350px;
+  width:440px;
+  background-color: #dfeeea;
+  padding:20px;
+  border: 1px solid;
+  border-radius: 20px;
+}
+
+.In-ed{
+  position: relative;
+  left:20px;
+  padding-top: 12px;
+}
+
+.Tech-set {
+  height:120px;
+  width:440px;
+  background-color: #dfeeea;
+  padding:20px;
+  border: 1px solid;
+  border-radius: 20px;
+}
+
+.project-desc{
+  height:560px;
+  width:440px;
+  background-color: #dfeeea;
+  padding:20px;
+  border: 1px solid;
+  border-radius: 20px;
+  position: relative;
+  left:520px;
+  bottom: 990px;
+}
+
+.move-up {
+  position: relative;
+  left:520px;
+  bottom: 990px;
+}
+
+
+.Train-cert {
+  height:120px;
+  width:440px;
+  background-color: #dfeeea;
+  padding:20px;
+  border: 1px solid;
+  border-radius: 20px;
+  position: relative;
+  left:520px;
+  bottom:990px;
+}
+
+.Extra{
+  height:80px;
+  width:480px;
+  background-color: #dfeeea;
+  border: 1px solid;
+  border-radius: 20px;
+  position: relative;
+  left:520px;
+  bottom:990px;
+}
